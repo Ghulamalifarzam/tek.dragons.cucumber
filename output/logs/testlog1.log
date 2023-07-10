@@ -1,0 +1,144 @@
+2023-04-24 14:08:42,932 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 14:08:42,969 [main] INFO logger_file - Expected and Actual Page Title are the SameReact App
+2023-04-24 14:09:31,690 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 14:09:31,723 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 15:39:06,879 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 15:39:06,950 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 15:47:50,344 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 15:47:50,425 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 15:48:01,969 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-24 15:48:02,063 [main] INFO logger_file - PlayStation: value was entered successfully
+2023-04-24 15:48:02,347 [main] INFO logger_file - Search button was clicked successfully
+2023-04-24 15:48:02,370 [main] INFO logger_file - Item is present
+2023-04-24 15:58:45,461 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 15:58:45,487 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 15:58:51,195 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-24 15:58:51,274 [main] INFO logger_file - PlayStation: value was entered successfully
+2023-04-24 15:58:51,548 [main] INFO logger_file - Search button was clicked successfully
+2023-04-24 15:58:51,576 [main] INFO logger_file - Item is present
+2023-04-24 16:20:18,054 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 16:20:18,076 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 16:20:23,908 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-24 16:20:23,994 [main] INFO logger_file - PlayStation: value was entered successfully
+2023-04-24 16:20:24,271 [main] INFO logger_file - Search button was clicked successfully
+2023-04-24 16:20:24,295 [main] INFO logger_file - Item is present
+2023-04-24 16:20:30,003 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 16:20:30,011 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 16:20:30,159 [main] INFO logger_file - Shop By Category: is present
+2023-04-24 16:22:02,775 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 16:22:02,794 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 16:22:02,828 [main] INFO logger_file - Shop By Category: is present
+2023-04-24 17:01:59,679 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 17:01:59,698 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 17:02:04,219 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 17:02:04,234 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 17:02:08,944 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 17:02:08,970 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 18:58:41,756 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 18:58:41,769 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 18:58:47,110 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 18:58:47,123 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 18:58:52,978 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 18:58:52,995 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 19:04:54,098 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 19:04:54,114 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 19:04:59,863 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 19:04:59,871 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 19:05:05,207 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 19:05:05,217 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 22:50:59,860 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 22:50:59,877 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 22:51:06,870 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 22:51:06,883 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 22:51:12,651 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 22:51:12,676 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 23:01:34,267 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 23:01:34,318 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 23:01:40,181 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-24 23:01:40,273 [main] INFO logger_file - PlayStation: value was entered successfully
+2023-04-24 23:01:40,572 [main] INFO logger_file - Search button was clicked successfully
+2023-04-24 23:01:40,600 [main] INFO logger_file - Item is present
+2023-04-24 23:01:45,948 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 23:01:45,961 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 23:01:46,123 [main] INFO logger_file - Shop By Category: is present
+2023-04-24 23:05:15,729 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 23:05:15,773 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 23:05:27,914 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 23:05:27,927 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 23:05:38,764 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 23:05:38,781 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 23:08:24,725 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 23:08:24,772 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 23:08:36,845 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 23:08:36,851 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 23:08:47,993 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 23:08:48,009 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 23:16:00,344 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 23:16:00,356 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 23:16:11,137 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 23:16:11,152 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 23:16:21,381 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 23:16:21,390 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 23:29:06,445 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 23:29:06,466 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 23:29:12,351 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-24 23:29:12,539 [main] INFO logger_file - PlayStation: value was entered successfully
+2023-04-24 23:29:12,805 [main] INFO logger_file - Search button was clicked successfully
+2023-04-24 23:29:12,828 [main] INFO logger_file - Item is present
+2023-04-24 23:29:17,530 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 23:29:17,541 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-24 23:29:17,567 [main] INFO logger_file - Shop By Category: is present
+2023-04-25 00:00:18,523 [main] INFO logger_file - Tekschool logo is present
+2023-04-25 00:00:18,564 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-25 00:00:24,109 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-25 00:00:24,180 [main] INFO logger_file - PlayStation: value was entered successfully
+2023-04-25 00:00:24,439 [main] INFO logger_file - Search button was clicked successfully
+2023-04-25 00:00:24,459 [main] INFO logger_file - Item is present
+2023-04-25 00:00:29,300 [main] INFO logger_file - Tekschool logo is present
+2023-04-25 00:00:29,310 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-25 00:00:29,343 [main] INFO logger_file - Shop By Category: is present
+2023-04-25 00:01:07,735 [main] INFO logger_file - Tekschool logo is present
+2023-04-25 00:01:07,745 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-25 00:01:17,742 [main] INFO logger_file - Tekschool logo is present
+2023-04-25 00:01:17,751 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-25 00:01:27,976 [main] INFO logger_file - Tekschool logo is present
+2023-04-25 00:01:27,983 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-25 14:02:57,365 [main] INFO logger_file - Tekschool logo is present
+2023-04-25 14:02:57,390 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-25 14:03:02,992 [main] INFO logger_file - Tekschool logo is present
+2023-04-25 14:03:03,008 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-25 14:03:08,498 [main] INFO logger_file - Tekschool logo is present
+2023-04-25 14:03:08,600 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-25 14:09:02,317 [main] INFO logger_file - Tekschool logo is present
+2023-04-25 14:09:02,337 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-25 14:09:07,932 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-25 14:09:08,013 [main] INFO logger_file - PlayStation: value was entered successfully
+2023-04-25 14:09:08,312 [main] INFO logger_file - Search button was clicked successfully
+2023-04-25 14:09:08,410 [main] INFO logger_file - Item is present
+2023-04-25 14:09:13,580 [main] INFO logger_file - Tekschool logo is present
+2023-04-25 14:09:13,599 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-25 14:09:13,714 [main] INFO logger_file - Shop By Category: is present
+2023-04-25 14:12:57,359 [main] INFO logger_file - Tekschool logo is present
+2023-04-25 14:12:57,378 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-25 14:13:02,982 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-25 14:13:03,057 [main] INFO logger_file - PlayStation: value was entered successfully
+2023-04-25 14:13:03,329 [main] INFO logger_file - Search button was clicked successfully
+2023-04-25 14:13:03,354 [main] INFO logger_file - Item is present
+2023-04-25 14:13:08,327 [main] INFO logger_file - Tekschool logo is present
+2023-04-25 14:13:08,340 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-25 14:13:08,450 [main] INFO logger_file - Shop By Category: is present
+2023-04-25 14:13:41,281 [main] INFO logger_file - Tekschool logo is present
+2023-04-25 14:13:41,303 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-25 14:13:51,035 [main] INFO logger_file - Tekschool logo is present
+2023-04-25 14:13:51,046 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-04-25 14:14:01,116 [main] INFO logger_file - Tekschool logo is present
+2023-04-25 14:14:01,124 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-05-04 19:16:28,569 [main] INFO logger_file - Tekschool logo is present
+2023-05-04 19:16:28,616 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-05-04 19:16:34,283 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-05-04 19:16:34,421 [main] INFO logger_file - PlayStation: value was entered successfully
+2023-05-04 19:16:34,893 [main] INFO logger_file - Search button was clicked successfully
+2023-05-04 19:16:34,977 [main] INFO logger_file - Item is present
+2023-05-04 19:16:39,451 [main] INFO logger_file - Tekschool logo is present
+2023-05-04 19:16:39,457 [main] INFO logger_file - Expected and Actual Page Title are the Same React App
+2023-05-04 19:16:39,482 [main] INFO logger_file - Shop By Category: is present
